@@ -60,6 +60,6 @@ Contributions to this project are welcome. If you have any ideas or improvements
 
 - **Purwadhika Digital Technology School**: For providing the learning platform and guidance throughout the project.
 - **Lecturer**: Mohammad Digjaya for his valuable input and support.
-- **Data Sources**: The dataset used in this project is from the UCI Machine Learning Repository. [Go to Dataset](https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset)
+- **Data Sources**: The dataset is obtained from the kaggle through this [link](https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset). This data originally is from the UCI Machine Learning Repository based on Portugal Banking System. [Go to Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
 Visit our tableau to see the model predictive performance and analysis! [Go to Tableau](https://public.tableau.com/views/HeraldBankMarketingCampaign/Dashboard5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
