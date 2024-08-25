@@ -1,5 +1,8 @@
 # Bank Telemarketing Campaign
 **By Herald Team**
+- Edwardo Krisna Sembiring
+- Friska Hermalia Putri
+- Muhammad Alditya Prasetyawan
 ## Project Overview
 
 The **Bank Telemarketing Campaign** project aims to develop a data-driven approach to enhance the effectiveness of telemarketing efforts for term deposit subscriptions. By leveraging advanced analytics and machine learning techniques, we seek to identify potential customers who are more likely to subscribe to a term deposit, thereby improving success rate.
